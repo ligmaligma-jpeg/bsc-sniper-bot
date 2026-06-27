@@ -42,14 +42,9 @@ The 0.5% dev fee is **hardcoded in the Solidity contract** — it cannot be bypa
 - Most new tokens are scams — safety checks help but aren't foolproof
 - Test on testnet first
 
-## Support
-
-If you find this tool useful, consider supporting the project:
-
-- 🌿 **Grass** — Earn passive income by sharing unused bandwidth: [Register here](https://app.grass.io/register?referralCode=WeMGAjVJGpVUO5U)
-
 ## Requirements
 
 - Python 3.10+
 - Node.js 18+ (for solc compiler)
 - BNB for gas fees
+
